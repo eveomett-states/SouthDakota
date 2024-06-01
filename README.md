@@ -17,7 +17,7 @@ Obtain the following data from Restricting Data Hub
 
 [2018 election data](https://redistrictingdatahub.org/dataset/vest-2018-south-dakota-precinct-and-election-results/)**:**  VEST 2018 South Dakota precinct and election results
 
-[2016 election data](https://redistrictingdatahub.org/dataset/vest-2018-south-dakota-precinct-and-election-results/)**:**  VEST 2016 South Dakota precinct and election results
+[2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-south-dakota-precinct-and-election-results/)**:**  VEST 2016 South Dakota precinct and election results
 
 # **Processing**
 
